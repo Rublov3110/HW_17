@@ -1,0 +1,10 @@
+Metod1 0
+Method2 0
+Metod1 1
+Method2 1
+Metod1 2
+Method2 2
+Metod1 3
+Method2 3
+Metod1 4
+Method2 4
